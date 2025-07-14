@@ -17,3 +17,5 @@ attrdict
 PyMuPDF<1.21.0
 Pillow>=10.0.0
 pyyaml
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
